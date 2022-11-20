@@ -28,7 +28,7 @@
 <h3 align="left">✉ Connect with me:</h3>
 
 <p>
-  <a target="blank" href="https://www.linkedin.com/in/moustapha-ouakka-b37021220/">
+  <a target="_blank" href="https://www.linkedin.com/in/moustapha-ouakka-b37021220/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
   <a target="_blank" href="mailto:mustaphaouakka06@gmail.com">
@@ -37,7 +37,7 @@
   <a target="_blank" href="https://web.facebook.com/mustapha.ouakka.7/">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
   </a>
-  <a target="_blank" href="https://wa.me/+212682212674">
+  <a target="_blank" href="https://wa.me/+212682212674/">
     <img src="https://img.shields.io/badge/whatsapp-%4cc61e.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=25>
   </a>
 </p>
