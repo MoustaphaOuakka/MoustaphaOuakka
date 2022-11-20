@@ -37,6 +37,9 @@
   <a target="_blank" href="https://web.facebook.com/mustapha.ouakka.7/">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
   </a>
+  <a target="_blank" href="wa.me/+212682212674">
+    <img src="https://img.shields.io/badge/whatsapp-%4cc61e.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=25>
+  </a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
