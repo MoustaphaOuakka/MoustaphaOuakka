@@ -17,7 +17,7 @@
 
   - 💬 Ask me about **Web Development**
 
-  - 📫 How to reach me **mustaphaouakka06@gmail.com**
+  - 📫 How to reach me **mo.ouakka@gmail.com**
 
 <!--  
   - 📄 Know about my experiences **To find a challenging position to meet my competencies, capabilities, skills, education and experience in a growing, environmentally conscious company that will utilize my current skills in the development of company and to gain experience in market research with a view to uplift my personal and professional growth.**
@@ -31,7 +31,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/moustapha-ouakka-b37021220/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a target="_blank" href="mailto:mustaphaouakka06@gmail.com">
+  <a target="_blank" href="mailto:mo.ouakka@gmail.com">
     <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://web.facebook.com/mustapha.ouakka.7/">
